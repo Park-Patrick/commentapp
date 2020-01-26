@@ -1,8 +1,10 @@
-## Welcome to the smol app
+## Welcome to my smol poster
 
+### If you like the poster, want to collaborate, or have any questions, please leave a comment below!
+### There is no sign-in necessary, but please leave your contact info if you would like a response
 
 ![poster](https://i.imgur.com/T93Ip5Q.png)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
